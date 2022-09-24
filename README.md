@@ -8,5 +8,8 @@
 ## 2-3.exampleSite資料夾內新增themes  
 ## 2-4.將liva-hugo-master 移動到 exampleSite  
 ## 2-5.將 liva-hugo-master 改名為 liva-hugo  
-## 2-6.將Hugo的主程式exe 檔案 放在 exampleSite資料夾  
+## 2-6.將Hugo.exe程式 檔案 放在 exampleSite資料夾  
+  
+# 3.執行網頁
+## cmd 下 hugo server  
 
